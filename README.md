@@ -1,0 +1,2 @@
+# Financial Management System
+WealthWave Financial Management System is an all-in-one solution that helps businesses and individuals streamline their financial operations and effectively manage their financial information. It has four main modules, namely revenue management, expenditure management, chart analysis and user management. Through these functions, users can understand their financial situation, make a reasonable financial plan, but also to avoid overspending and unnecessary expenses, to solve the difficult problem of budget control.
